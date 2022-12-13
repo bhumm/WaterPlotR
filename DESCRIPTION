@@ -1,0 +1,11 @@
+Package: WaterPlotR
+Type: Package
+Title: Creates a waterfall plot using bedgraph coverage files.
+Version: 0.1.0
+Author: Blake Hummer
+Maintainer: Blake Hummer <hummer.blake@gmail.com>
+Description: Ingests one or more bedgraph files and creates a waterfall plot of the normalized coverage values. Each line is normalized to itself. bedgraphs are assumed to have a header.
+Imports: ggplot2, dplyr
+License: CC0
+Encoding: UTF-8
+LazyData: true
