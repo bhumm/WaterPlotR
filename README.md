@@ -7,5 +7,7 @@ The output is a single .png file. An example bedgraph is provided in the main br
 Dependencies: ggplot2, dplyr
 
 Author: blake hummer
+
 Date: 2022-12-13
+
 Report all bugs to: hummer.blake@gmail.com
